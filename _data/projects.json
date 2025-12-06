@@ -1,0 +1,56 @@
+[
+  {
+    "name": "biz-calendar-jp",
+    "url": "https://shiro46mt.github.io/biz-calendar-jp/",
+    "github_url": "https://github.com/shiro46mt/biz-calendar-jp",
+    "description": "日本の営業日カレンダー",
+    "updated_at": "2025-12-04T12:50:58Z",
+    "stars": 0,
+    "language": "Python"
+  },
+  {
+    "name": "jp-medicine-master-data",
+    "url": "https://shiro46mt.github.io/jp-medicine-master-data/",
+    "github_url": "https://github.com/shiro46mt/jp-medicine-master-data",
+    "description": "",
+    "updated_at": "2025-12-04T12:42:51Z",
+    "stars": 0,
+    "language": "Python"
+  },
+  {
+    "name": "hotcook-recipes",
+    "url": "https://shiro46mt.github.io/hotcook-recipes/",
+    "github_url": "https://github.com/shiro46mt/hotcook-recipes",
+    "description": "ホットクック レシピ集",
+    "updated_at": "2025-08-30T13:17:29Z",
+    "stars": 0,
+    "language": "JavaScript"
+  },
+  {
+    "name": "conan-moonstarsun",
+    "url": "https://shiro46mt.github.io/conan-moonstarsun/",
+    "github_url": "https://github.com/shiro46mt/conan-moonstarsun",
+    "description": "",
+    "updated_at": "2024-05-18T07:33:18Z",
+    "stars": 0,
+    "language": ""
+  },
+  {
+    "name": "a-puzzle-a-day",
+    "url": "https://shiro46mt.github.io/a-puzzle-a-day/",
+    "github_url": "https://github.com/shiro46mt/a-puzzle-a-day",
+    "description": "毎日遊べるノルウェーのパズル",
+    "updated_at": "2024-04-06T13:01:32Z",
+    "stars": 1,
+    "language": ""
+  },
+  {
+    "name": "albert-clock",
+    "url": "https://shiro46mt.github.io/albert-clock/",
+    "github_url": "https://github.com/shiro46mt/albert-clock",
+    "description": "時刻を数式で表示する時計",
+    "updated_at": "2023-11-26T07:42:00Z",
+    "stars": 0,
+    "language": ""
+  }
+]
