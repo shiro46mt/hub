@@ -1,19 +1,19 @@
 [
   {
+    "name": "biz-calendar-jp",
+    "url": "https://shiro46mt.github.io/biz-calendar-jp/",
+    "github_url": "https://github.com/shiro46mt/biz-calendar-jp",
+    "description": "日本の営業日カレンダー",
+    "updated_at": "2026-01-05T14:17:14Z",
+    "stars": 0,
+    "language": "Python"
+  },
+  {
     "name": "jp-medicine-master-data",
     "url": "https://shiro46mt.github.io/jp-medicine-master-data/",
     "github_url": "https://github.com/shiro46mt/jp-medicine-master-data",
     "description": "",
     "updated_at": "2025-12-10T12:41:53Z",
-    "stars": 0,
-    "language": "Python"
-  },
-  {
-    "name": "biz-calendar-jp",
-    "url": "https://shiro46mt.github.io/biz-calendar-jp/",
-    "github_url": "https://github.com/shiro46mt/biz-calendar-jp",
-    "description": "日本の営業日カレンダー",
-    "updated_at": "2025-12-04T12:50:58Z",
     "stars": 0,
     "language": "Python"
   },
